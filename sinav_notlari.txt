@@ -1,0 +1,6 @@
+ahmet erdoğan:100,90,80
+mehmet öz:90,80,70
+yağmur tekin:80,70,60
+aleyna öztürk:90,85,65
+şevval tek:95,100,97
+aslı çok:96,87,100
