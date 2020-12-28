@@ -1,7 +1,7 @@
 # BANKAMATİK UYGULAMASI
 
-BeyzaHesap = {
-    "ad": "Beyzanur Tekinli",
+AhmetHesap = {
+    "ad": "Ahmet Tekinli",
     "hesapNo": "123456789",
     "bakiye": 5000,
     "ekHesap": 1500
@@ -41,10 +41,10 @@ def paraCek(hesap, miktar):
 def bakiyeSorgula(hesap):
     print(f"{hesap['hesapNo']} nolu hesabınızda {hesap['bakiye']} TL bulunmaktadır. Ek hesap limitinde {hesap['ekHesap']} TL bulunmaktadır.")
 
-paraCek(BeyzaHesap, 5000)
-bakiyeSorgula(BeyzaHesap)
+paraCek(AhmetHesap, 5000)
+bakiyeSorgula(AhmetHesap)
 
 print("*"*12)
 
-paraCek(BeyzaHesap, 500)
-bakiyeSorgula(BeyzaHesap)
+paraCek(AhmetHesap, 500)
+bakiyeSorgula(AhmetHesap)
