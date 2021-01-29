@@ -5,8 +5,8 @@ print("Fibonacci Nedir?\nKendisi ve öncesindeki sayının toplamına eşittir. 
 def fibonacci(hesapla):
     number1 = 0
     number2 = 1
-    print(f"{number1} + {number2} = ",number1+number2)
-    for i in range(0,11):
+    print(f"{number1} + {number2} = ", number1 + number2)
+    for i in range(0, 11):
         number3 = number1 + number2
         print(number3)
         number1 = number2
