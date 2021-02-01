@@ -39,7 +39,7 @@ def EratostenKalburu(n):
             asal2.append(p)
     print(asal2)
 
-n=int(input("Kaça kadar asal sayıların bulunmasını istiyorsunuz: "))
+n = int(input("Kaça kadar asal sayıların bulunmasını istiyorsunuz: "))
 EratostenKalburu(n)
 print ("N'den küçük veya eşit asal sayılar: ", n)
 EratostenKalburu(n)
