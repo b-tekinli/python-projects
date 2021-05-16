@@ -1,3 +1,3 @@
 # python-projeler
 
-python dilini öğrenme sürecimde geliştirdiğim projeler
+my process of python working
